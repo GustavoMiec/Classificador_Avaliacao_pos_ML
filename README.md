@@ -73,4 +73,4 @@ Os dados utilizados devem estar em um arquivo CSV com as colunas:
 
 ## 📝 Autor
 
-Feito por [Seu Nome](https://github.com/GustavoMiec) — projeto acadêmico de IA e NLP.
+Feito por [GustavoMiec](https://github.com/GustavoMiec) — projeto acadêmico de IA e NLP.
